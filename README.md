@@ -1,6 +1,4 @@
-<h1 align="center"> OLIVER EATON </h1>
-
-<h2 align="center">Data Scientist</h2>
+<h1 align="center"> Oliver Eation - Data Scientist</h1>
 
 **Personal website:** [oli-portfolio.com](https://oli-portfolio.netlify.app/)
 
