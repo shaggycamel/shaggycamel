@@ -1,8 +1,9 @@
 <h1 align="center"> Oliver Eation - Data Scientist</h1>
 
+Hi there! I'm a Data Scientist with a keen interest in using analytics to understand human behaviour & sport science. I am also an advocate for the ethical use of data and take data privacy and model scrutinisation seriously.
+
 **Personal website:** [oli-portfolio.com](https://oli-portfolio.netlify.app/)
 
-Hi there! I'm a Data Scientist with a keen interest in using analytics to understand human behaviour & sport science. I am also an advocate for the ethical use of data and take data privacy and model scrutinisation seriously.
 
 ### What am I up to? 
 
