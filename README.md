@@ -5,7 +5,7 @@ Hi there! I'm a Data Scientist with a keen interest in using analytics to unders
 **Personal website:** [oli-portfolio.com](https://oli-portfolio.netlify.app/)
 
 
-### What am I up to? 
+### What am I up to? - Projects
 
 - I enjoy writing blogs and currrently have three: [my travel blog](https://shaggycamel-travelblog.netlify.app/), [music blog](https://shaggycamel.quarto.pub/freds_music_blog/), [NBA analytics blog](https://shaggycamel.quarto.pub/fantasy-2023/). To streamline the process of creating a blogging framework (specifically, the [Quarto](https://quarto.org/) framework), I authored an R package making convenience functions accessible to the open-source community. To view my code and download the package, visit my [**blogme** Github repository](https://github.com/shaggycamel/blogme).
 
